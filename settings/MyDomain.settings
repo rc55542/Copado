@@ -8,7 +8,7 @@
     <enableShareBrowserSessionAndroidForAuth>false</enableShareBrowserSessionAndroidForAuth>
     <enableShareBrowserSessionIOSForAuth>false</enableShareBrowserSessionIOSForAuth>
     <logRedirections>false</logRedirections>
-    <myDomainName>dev5-a-dev-ed</myDomainName>
+    <myDomainName>uat-c-dev-ed</myDomainName>
     <myDomainSuffix>MySalesforce</myDomainSuffix>
     <redirectForceComSiteUrls>true</redirectForceComSiteUrls>
     <redirectPriorMyDomain>true</redirectPriorMyDomain>
